@@ -2,12 +2,6 @@
 
 > This project is a limited emulation Zagat.com's restaurant description page
 
-## Related Projects
-
-  - https://github.com/shoutout2ourselves/gallery
-  - https://github.com/shoutout2ourselves/recommendations
-  - https://github.com/shoutout2ourselves/samwatson6_map-side-bar
-
 ## Table of Contents
 
 1. [Usage](#Usage)
